@@ -1,0 +1,48 @@
+Campus     : Wellawatta
+Building No:18
+Floor No   :0
+ 
+Room      : 30G		SpaceType: lab
+Department:it		SpaceCode: 102
+Occupant  :vacant		UFA    :12sqm
+ 
+Furniture Assets
+# Barcode        Description          AquisationDate     Cost
+_____________________________________________________________________
+1204005002141	Staine-pine cab    	2017/09/25	1200
+1204004002586	Pine  bookcase    	2017/08/10	1000
+					      Roomtotal:2200
+
+
+
+
+Room      : 31G		SpaceType: meetingroom
+Department:it		SpaceCode: 105
+Occupant  :occupied		UFA    :10sqm
+ 
+Furniture Assets
+# Barcode        Description          AquisationDate     Cost
+_____________________________________________________________________
+1204003895865	Mel desk            	2017/08/20	1020
+1204003478976	Gas-lift chair       	2017/08/10	800
+					      Roomtotal:1820
+
+
+
+
+Room      : 32G		SpaceType: lab
+Department:science		SpaceCode: 102
+Occupant  :occupied		UFA    :12sqm
+ 
+Furniture Assets
+# Barcode        Description          AquisationDate     Cost
+_____________________________________________________________________
+1204003009045	Mel desk             	2017/05/20	1020
+1204003004551	Fixed-frame chair	2017/09/23	700
+					      Roomtotal:1720
+
+
+
+
+Total space occupied:34sqm
+Total Asset Value   :5740

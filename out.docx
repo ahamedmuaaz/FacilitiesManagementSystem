@@ -1,0 +1,38 @@
+Campus     : Wellawatta
+Building No:10
+Floor No   :1
+
+ Room      : 10F		SpaceType: office
+ Department:science		SpaceCode: 101
+ Occupant  :vacant		UFA     :10
+
+
+
+
+Furniture Assets 
+
+
+#Barcode    Description       AquisationDate      Cost
+_____________________________________________________________________
+ 	1204003009050	Gas-lift Chair	2017/10/21	800
+ 	1204003009065	Fixed-frame chair	2017/10/21	700
+ 	1204003009067	Mel desk	2017/10/21	1020
+				 2520
+
+
+
+
+ Room      : 11F		SpaceType: teachingroom
+ Department:science		SpaceCode  : 104
+ Occupant  :vacant		UFA       :8
+	1204003009068	Mel desk
+	1204003009068	Pine bookcase
+
+
+
+
+ Room      : 12F		SpaceType: office
+ Department:science		SpaceCode: 101
+ Occupant  :pending		UFA     :6
+	1204003009068	Metalfilling cab
+	1204003009068	Mel bookcase

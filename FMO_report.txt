@@ -1,0 +1,48 @@
+Campus     : Wellawatta
+Building No:10
+Floor No   :2
+ 
+Room      : 13S		SpaceType: office
+Department:it		SpaceCode: 101
+Occupant  :vacant		UFA    :10sqm
+ 
+Furniture Assets
+# Barcode        Description          AquisationDate     Cost
+_____________________________________________________________________
+1204003009078	Fixed-frame chair	2017/11/25	700
+1204003009079	Mel desk            	2017/10/21	1020
+					      Roomtotal:1720
+
+
+
+
+Room      : 14S		SpaceType: teachingroom
+Department:it		SpaceCode: 104
+Occupant  :vacant		UFA    :8sqm
+ 
+Furniture Assets
+# Barcode        Description          AquisationDate     Cost
+_____________________________________________________________________
+1204003009080	Fixed-farme chair	2017/12/21	700
+1204003009082	pine bookcase     	2017/04/01	1000
+					      Roomtotal:1700
+
+
+
+
+Room      : 15S		SpaceType: meetingroom
+Department:it		SpaceCode: 105
+Occupant  :pending		UFA    :12sqm
+ 
+Furniture Assets
+# Barcode        Description          AquisationDate     Cost
+_____________________________________________________________________
+1204003009085	pine bookcase     	2017/04/01	1000
+1204003009086	Gas-lift chair      	2017/05/10	800
+					      Roomtotal:1800
+
+
+
+
+Total space occupied:30sqm
+Total Asset Value   :5220

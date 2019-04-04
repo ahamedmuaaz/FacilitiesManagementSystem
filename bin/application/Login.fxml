@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.PasswordField?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.paint.RadialGradient?>
+<?import javafx.scene.paint.Stop?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane fx:id="rootpane1" prefHeight="550.0" prefWidth="840.0" style="-fx-background-color: skyblue;" xmlns="http://javafx.com/javafx/8.0.102" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.Logincontroller">
+   <children>
+      <PasswordField fx:id="pass" alignment="CENTER" layoutX="533.0" layoutY="247.0" promptText="Password">
+         <font>
+            <Font name="System Bold" size="12.0" />
+         </font>
+      </PasswordField>
+      <TextField fx:id="txt1" alignment="CENTER" layoutX="534.0" layoutY="193.0" promptText="User Name">
+         <font>
+            <Font name="System Bold" size="12.0" />
+         </font>
+      </TextField>
+      <Button fx:id="btn" layoutX="578.0" layoutY="335.0" mnemonicParsing="false" onAction="#login" text="Log In">
+         <font>
+            <Font name="System Bold Italic" size="13.0" />
+         </font>
+      </Button>
+      <ImageView fx:id="imagex" fitHeight="567.0" fitWidth="420.0" pickOnBounds="true" />
+      <Label layoutX="542.0" layoutY="68.0" text="FMIS" wrapText="true">
+         <font>
+            <Font name="Lucida Calligraphy Italic" size="48.0" />
+         </font>
+         <textFill>
+            <RadialGradient centerX="0.4722222222222222" centerY="0.47619047619047616" radius="0.5">
+               <stops>
+                  <Stop color="#140808" />
+                  <Stop color="#140808" offset="0.1111111111111111" />
+                  <Stop color="#3f1bab" offset="0.5670498084291186" />
+                  <Stop color="#3f1bab" offset="1.0" />
+               </stops>
+            </RadialGradient>
+         </textFill>
+      </Label>
+   </children>
+</AnchorPane>
